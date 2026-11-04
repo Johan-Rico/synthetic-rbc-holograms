@@ -1,0 +1,20 @@
+# Datos (no se suben: ver README)
+data/
+Holograms/
+*.zip
+
+# Resultados de entrenamiento
+resultados/
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

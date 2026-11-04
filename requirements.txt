@@ -1,0 +1,7 @@
+# PyTorch NO se instala desde aqui: usar el comando de https://pytorch.org
+numpy
+pandas
+matplotlib
+pillow
+jupyter
+nbstripout
