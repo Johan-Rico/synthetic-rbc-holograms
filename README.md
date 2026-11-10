@@ -132,5 +132,5 @@ Los valores de `r2_real` y `nrmse_real`, calculados con el holograma real, son e
 
 ## Referencias
 
-- Isola, P., Zhu, J.-Y., Zhou, T., Efros, A. A. (2017). *Image-to-Image Translation with Conditional Adversarial Networks* (pix2pix). Implementación de referencia: junyanz/pytorch-CycleGAN-and-pix2pix.
+- Isola, P., Zhu, J.-Y., Zhou, T., Efros, A. A. (2017). *Image-to-Image Translation with Conditional Adversarial Networks* (pix2pix). Implementación de referencia: [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-cyclegan-and-pix2pix).
 - Castañeda, R., Trujillo, C., Doblas, A. (2024). Dataset de hologramas de eritrocitos, citado arriba.
